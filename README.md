@@ -1,7 +1,7 @@
 ﻿# Express/Mongo Based Blog App
 This app allows users to create, update and delete blog posts.
 
-![](https://raw.githubusercontent.com/CLewisMessina/Express Mongo Blog App/img/blog.png)
+![](https://raw.githubusercontent.com/CLewisMessina/Express_Mongo_Blog_App/img/blog.png)
 
 **Code base:** HTML, CSS, JavaScript, EJS
 
