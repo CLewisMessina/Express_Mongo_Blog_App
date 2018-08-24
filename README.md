@@ -1,2 +1,20 @@
-# Express_Mongo_Blog_App
-Express/MongoDB based Blog App with CRUD functionality.
+﻿# Express/Mongo Based Blog App
+This app allows users to create, update and delete blog posts.
+
+![](https://raw.githubusercontent.com/CLewisMessina/Express Mongo Blog App/img/blog.png)
+
+**Code base:** HTML, CSS, JavaScript, EJS
+
+**JS Libraries/Dependencies:** Express, Express Sanitizer, Method-Override, Mongoose, Body Parser
+
+**Database Dependencies:** MongoDB v3.6.5
+
+**Code Tools:** MS Visual Studio Code
+
+
+### PROJECT HIGHLIGHTS
+This is my version of the Blog App from the Colt Steel Web Developer Bootcamp course. The UI utilizes the Semantic-UI library for minimalist styling.
+
+## REFACTOR NOTES
+None.
+
