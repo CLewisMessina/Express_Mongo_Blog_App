@@ -5,7 +5,7 @@ This app allows users to create, update and delete blog posts.
 
 **Code base:** HTML, CSS, JavaScript, EJS
 
-**JS Libraries/Dependencies:** Express, Express Sanitizer, Method-Override, Mongoose, Body Parser (See: package.json for details) 
+**JS Libraries/Dependencies (See: package.json for details):** Express, Express Sanitizer, Method-Override, Mongoose, Body Parser 
 
 **Database Dependencies:** MongoDB v3.6.5
 
